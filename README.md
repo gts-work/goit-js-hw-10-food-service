@@ -2,4 +2,6 @@
 
 ## build webpack
 
+```shell
 https://github.com/luxplanjay/webpack-starter-kit
+```
